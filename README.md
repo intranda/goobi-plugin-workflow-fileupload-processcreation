@@ -1,6 +1,9 @@
 # Goobi workflow Plugin: goobi-plugin-workflow-file-upload-process-creation
 
-<img src="https://goobi.io/wp-content/uploads/logo_goobi_plugin.png" align="right" style="margin:0 0 20px 20px;" alt="Plugin for Goobi workflow" width="175" height="109">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://goobi.io/logo_goobi_workflow_dark.png">
+  <img src="https://goobi.io/logo_goobi_workflow.png" align="right" alt="Plugin for Goobi workflow" width="240" height="132" hspace="20" vspace="10">
+</picture>
 
 This Workflow plugin for Goobi workflow is used to upload multiple files to allow an automatic process creation based on these uploaded files. Files with similar names are used to create Goobi processes and assign these files to it.
 
